@@ -1,0 +1,44 @@
+body{
+    background-color: hsl(202, 59%, 63%);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+header{
+    background-color: hsl(214, 60%, 52%);
+    color:#ffffff;
+    padding:10px;
+}
+.verde{
+    background-color: #69a7a2;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    text-decoration: none;
+    color: #fff;
+    display: inline;
+    margin-right: 10px;
+}
+
+main{
+    padding:20px;
+}
+    footer{
+        background-color: hsl(214, 60%, 52%);
+    color: #000000;
+    padding:10px;
+    text-align: center;
+    }
+    .joaoégostoso{
+        display:flex;
+
+    }
+
+    .imagem{
+        padding-left: 100%
+        ;
+    }
